@@ -1,0 +1,41 @@
+.Expended{
+    background: url("../../assets/bvg.jpg");
+    opacity: 1;
+    color: #dadada;
+    padding-bottom: 2%;
+}
+.Expended-body{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 8%;
+    padding-right: 8%;
+    padding-top: 2%;
+    opacity: 10;
+}
+.expand-details{
+    padding-left: 2%;
+}
+.expand-poster img{
+    height: 250px;
+    width: auto;
+}
+h1 h4{
+    display: inline;
+}
+h1 span{
+    font-size: x-large;
+    border-radius: 50%;
+    border-style: solid;
+    border-color: yellowgreen;
+    color: yellowgreen;
+    padding: .3%;
+}
+.Expended-head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 6%;
+    padding-right: 6%;
+}

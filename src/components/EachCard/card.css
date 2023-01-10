@@ -1,0 +1,17 @@
+
+.poster img{
+    height: 350px;
+    width: fit-content;
+}
+.card-title{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 0%;
+    margin-bottom: 0%;
+}
+.card-title h5{
+    margin-bottom: 0px;
+}
+.card-title h6{
+    margin-bottom: 0px;
+}

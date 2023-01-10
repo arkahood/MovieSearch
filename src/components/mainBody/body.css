@@ -1,0 +1,27 @@
+.body{
+    background-color: #232323;
+    color: white;
+}
+.each-Card{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.card {
+    display: flex;
+    flex-direction: column;
+    height: 500px;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 0%;
+    color: aliceblue;
+}
+.card a{
+    color: aliceblue;
+    text-decoration: none;
+}
